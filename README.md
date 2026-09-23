@@ -10,8 +10,9 @@
 
 I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**.
 
-I'm interested in **Web Development, Artificial Intelligence, Data Science, and Software Development**.  
-I enjoy learning new technologies and turning ideas into practical projects.
+I'm interested in **Web Development, Artificial Intelligence, Data Science, and Software Development**.
+
+I enjoy learning new technologies, building practical projects, and improving my programming skills through hands-on experience.
 
 ---
 
@@ -32,9 +33,11 @@ I enjoy learning new technologies and turning ideas into practical projects.
 - ⭐ Compare ratings and delivery information
 - 📱 Responsive user interface
 
-### 🛠️ Built With
+### 🛠️ Technologies Used
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql" />
+</p>
 
 ### 🔗 Project
 
@@ -42,41 +45,53 @@ I enjoy learning new technologies and turning ideas into practical projects.
 
 ---
 
+## 💻 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
+</p>
+
+---
+
 ## 📚 Currently Learning
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 💾 LocalStorage
-- 📱 Responsive Web Design
-- 🐍 Python
-- ☕ Java
+- 💾 **LocalStorage**
+- 📱 **Responsive Web Design**
+- ⚡ **JavaScript**
+- 🐍 **Python**
+- ☕ **Java**
 
 ---
 
-## 🎯 My Goals
+## 🎯 Goals
 
 - 🚀 Build more real-world projects
-- 🤖 Learn Artificial Intelligence & Machine Learning
-- 📊 Improve my Data Science skills
-- 💻 Develop stronger Full-Stack Development skills
-- 🧠 Strengthen programming and problem-solving skills
-- 📚 Continuously learn and improve
+- 🤖 Explore Artificial Intelligence & Machine Learning
+- 📊 Improve Data Science skills
+- 💻 Strengthen Full-Stack Development skills
+- 🧠 Improve programming and problem-solving skills
+- 📚 Continuously learn and grow as a developer
 
 ---
 
-## 💻 Areas of Interest
+## 💡 Areas of Interest
 
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🌐 Web Development
-- 🐍 Python Programming
-- ☕ Java Programming
-- 🗄️ Databases
+<p align="left">
+  🤖 Artificial Intelligence &nbsp;&nbsp;
+  📊 Data Science &nbsp;&nbsp;
+  🌐 Web Development
+</p>
+
+<p align="left">
+  🐍 Python &nbsp;&nbsp;
+  ☕ Java &nbsp;&nbsp;
+  🗄️ Databases
+</p>
 
 ---
 
 ## 📈 My Development Journey
 
 ```text
+Learning → Building → Experimenting → Improving
 Learning → Building → Experimenting → Improving
